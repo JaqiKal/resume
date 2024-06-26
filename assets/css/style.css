@@ -8,7 +8,7 @@
     box-sizing: border-box;
   }
 
-/* VARIABLES */
+/* VARIABLES - COLOR PALETTE*/
 
 :root {
     --primary-color: #360234;
@@ -59,3 +59,78 @@ h6 {
   margin-bottom: 15px;  
 
 }
+
+
+
+
+
+/* GLOBAL STYLES 
+------------------------------------*/
+
+
+
+/* HOME
+------------------------------------*/
+
+
+
+
+/* RESUME
+------------------------------------*/
+
+
+
+
+/* Projects
+------------------------------------*/
+
+
+
+/* Work Experience
+------------------------------------*/
+
+
+
+
+/* Education
+------------------------------------*/
+
+
+
+
+/* FOOTER
+------------------------------------*/
+
+
+
+
+
+/* MEDIA QUERY */
+
+@media screen and (max-width:500px){}
+/* Resume */
+
+/* Projects */
+
+
+@media screen and (max-width:650px){}
+/* Index */
+
+
+@media screen and (min-width:650px) and (max-width:859px) {}
+/* Projects */
+
+/* Footer */
+
+
+@media screen and (min-width: 860px) {}
+/* Work Experience */
+
+/* Footer */
+
+
+
+@media screen and (max-width: 1200px){}
+/* Resume */
+
+
